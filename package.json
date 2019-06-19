@@ -1,0 +1,44 @@
+{
+  "name": "learnpowerlifting",
+  "version": "1.0.0",
+  "description": "Powerlifitng Information Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "LearnPowerlifting"
+  },
+  "keywords": [
+    "learn",
+    "powerlifting",
+    "LearnPowerliftin",
+    "github",
+    "aaron",
+    "asuncion",
+    "aaronasuncion",
+    "aaronpasuncion",
+    "aaron",
+    "paul",
+    "asuncion",
+    "html",
+    "html",
+    "5",
+    "css",
+    "css3",
+    "javascript",
+    "jquery",
+    "gh",
+    "pges",
+    "npm",
+    "node.js",
+    "sass",
+    "scss"
+  ],
+  "author": "Aaron P Asuncion",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
